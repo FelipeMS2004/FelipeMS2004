@@ -13,23 +13,3 @@ Me chamo, Felipe Machado, tenho 21 anos, e sou natural do Rio de Janeiro. Sou es
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
             />
           
-
-  <img 
-            align="Left"
-            alt="R"
-            title="R"
-            width="45px"
-            style="padding-right,15px;"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-            />
-          
-
-   <img 
-            align="Left"
-            alt="SQL"
-            title="SQL"
-            width="45px"
-            style="padding-right,15px;"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-            />
-          
