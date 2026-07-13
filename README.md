@@ -8,8 +8,8 @@ Me chamo, Felipe Machado, tenho 21 anos, e sou natural do Rio de Janeiro. Sou es
             align="Left"
             alt="Python"
             title="Python"
-            width="30px"
-            style="padding-right,10px;"
+            width="40px"
+            style="padding-right,15px;"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
             />
           
