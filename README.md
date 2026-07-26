@@ -1,6 +1,6 @@
 ### **Bacharelando em Administração**
 
-Me chamo, Felipe Machado, tenho 21 anos, e sou natural do Rio de Janeiro. Sou estudante de Administração na UFRJ e entusiasta da área de finanças. Utilizo programação em linguagens como Python para realizar análises de risco e retorno em investimentos.
+Me chamo, Felipe Machado, tenho 21 anos, e sou natural do Rio de Janeiro. Sou estudante de Administração na UFRJ e entusiasta da área de finanças. Utilizo programação em linguagem python para análise de dados, construção de modelos de regressão e aplicações em análises de investimento.
 
 ### Linguagens e Tecnologias
 
